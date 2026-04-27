@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "http://localhost:5173/:splat"
+  to = "https://api.toorakcapital.info/:splat"
   status = 200
   force = true
 
