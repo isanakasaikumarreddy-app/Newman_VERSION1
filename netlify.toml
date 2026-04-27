@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://api.xyz.info/:splat"
+  to = "https://api.toorakcapital.info/:splat"
   status = 200
   force = true
 
